@@ -1,1 +1,1 @@
-# IMDB_Movie_Review_Sentiment_Analysis-DL-NLP-Project
+# imdb_movie_review_sentiment
